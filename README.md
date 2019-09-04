@@ -5,14 +5,14 @@
   #### This is a game coded in Java by using Slick2D (no other external libraries)
   #### In order to play this game on Eclipse, adding Slick library is needed.
   
-  How to setup Slick 2D can be founded here http://slick.ninjacave.com/wiki/index.php?title=Setting_up_Slick2D_with_Eclipse 
+  How to setup Slick 2D can be found here http://slick.ninjacave.com/wiki/index.php?title=Setting_up_Slick2D_with_Eclipse 
  
  ## Intro to the game
  The game has a player who can shoot and also enemies who could move in different ways. Some of them can shoot too
  
  some of them can't.
  
- This have have multi-waves. Each move will have different type of enemies and there will be a boss at the final
+ This have have multi-waves. Each wave will have different type of enemies and there will be a boss at the final
  
  Player only has 3 lives, player will lose life when he/she touched enemy or enemy laser
  
@@ -25,7 +25,7 @@
  2.Gain a shield for certain time
  
  
- ### Used resources can be founded at *res.zip*
+ ### Used resources can be found at *res.zip*
  
  Please paste resources and code to the IDE together to play the game
  
