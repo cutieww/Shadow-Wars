@@ -1,4 +1,7 @@
 # Java-projectA
+
+## Please check JavaGame.zip for game demo video
+
   #### This is a game coded in Java by using Slick2D (no other external libraries)
   #### In order to play this game on Eclipse, adding Slick library is needed.
   
