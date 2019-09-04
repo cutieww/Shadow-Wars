@@ -16,6 +16,7 @@
  
  #### Used resources can be founded at *res.zip*
  
+ Please paste resources and code to the IDE together to play the game
  
  #### Recommendation: 
  
