@@ -13,6 +13,12 @@
  
  Player only has 3 lives, player will lose life when he/she touched enemy or enemy laser
  
+ Enemy can be killed by player by shooting, and there is a really small chice Enemy will drop powerups.
+ 
+ There are two types:
+ 1.Increasing shooting speed
+ 2.Gain a shield for certain time
+ 
  
  #### Used resources can be founded at *res.zip*
  
