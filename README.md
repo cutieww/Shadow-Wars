@@ -14,10 +14,13 @@
  Player only has 3 lives, player will lose life when he/she touched enemy or enemy laser
  
  
- ### Used resources can be founded at *res.zip*
+ #### Used resources can be founded at *res.zip*
  
  
- ### Recommand: to test if the game runs properly, please change life from 3 to larger numbers such as 1000, so you won't die
- ### qucikly and don't need to start from beginning again.
+ #### Recommand: 
+ 
+ to test if the game runs properly, please change life from 3 to larger numbers such as 1000, so you won't die
+ 
+ qucikly and don't need to start from beginning again.
  
  
