@@ -16,15 +16,17 @@
  Enemy can be killed by player by shooting, and there is a really small chice Enemy will drop powerups.
  
  There are two types:
+ 
  1.Increasing shooting speed
+ 
  2.Gain a shield for certain time
  
  
- #### Used resources can be founded at *res.zip*
+ ## Used resources can be founded at *res.zip*
  
  Please paste resources and code to the IDE together to play the game
  
- #### Recommendation: 
+ ## Recommendation: 
  
  To test if the game runs properly, please change number of lives from 3 to larger numbers such as 1000, so you won't die
  
