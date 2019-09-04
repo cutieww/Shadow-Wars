@@ -17,9 +17,9 @@
  #### Used resources can be founded at *res.zip*
  
  
- #### Recommand: 
+ #### Recommendation: 
  
- to test if the game runs properly, please change life from 3 to larger numbers such as 1000, so you won't die
+ To test if the game runs properly, please change number of lives from 3 to larger numbers such as 1000, so you won't die
  
  qucikly and don't need to start from beginning again.
  
