@@ -1,6 +1,6 @@
 # Java-projectA
 
-## Please click the  for game demo video
+## Please click the GIF for game demo video
 [![Demo CountPages alpha](https://media.giphy.com/media/UWPehgMmZOcha24QUL/giphy.gif)](https://youtu.be/qcbsY9dphIU)
   #### This is a game coded in Java by using Slick2D (no other external libraries)
   #### In order to play this game on Eclipse, adding Slick library is needed.
