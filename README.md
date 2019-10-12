@@ -1,7 +1,7 @@
 # Java-projectA
 
 ## Please check out https://www.youtube.com/watch?v=qcbsY9dphIU for game demo video
-[<img src="https://www.youtube.com/watch?v=qcbsY9dphIU.jpg" width="50%">](https://www.youtube.com/watch?v=qcbsY9dphIU)
+[<img src="http://i3.ytimg.com/vi/qcbsY9dphIU/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=qcbsY9dphIU)
   #### This is a game coded in Java by using Slick2D (no other external libraries)
   #### In order to play this game on Eclipse, adding Slick library is needed.
   
