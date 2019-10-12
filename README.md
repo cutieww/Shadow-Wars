@@ -1,4 +1,4 @@
-# Java-projectA
+# Shadow Wars
 
 ## Please click the GIF for game demo video
 [![Demo CountPages alpha](https://media.giphy.com/media/UWPehgMmZOcha24QUL/giphy.gif)](https://youtu.be/qcbsY9dphIU)
